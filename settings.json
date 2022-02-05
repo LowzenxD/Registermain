@@ -1,0 +1,38 @@
+{
+    "botSettings": {
+        "token": "OTMxOTkxNDg5NTcwMDI5NTg4.YeMetg.hhJLr8aOTw4Q_nqCUTf3RsMTF-s",
+        "owners": [  "918584066817806466"],
+        "prefix": ".",
+        "botStatus": "Lowzen 💙 1339",
+        "botVoiceChannelID": "930094344042598401",
+        "mongoURL": ""
+    },
+    "channelSettings": {
+        "register": "930094331514212394",
+        "rules": "930716933811208213",
+        "wlcmessageChannel": "930094346047475743"
+    },
+    "roleSettings": {
+        "registerer": "930094255534391296",
+        "vipRole": "930094270768119808",
+        "teamRole": "930094266368274472",
+        "musicianRole": "",
+        "otherRole": "",
+        "booster": [""],
+        "unregisteredRole": ["930094274664599573"],
+        "girlRole": [ "930094272450027590"],
+        "boyRole": [ "930094273506979940"]
+    },
+    "colors": {
+        "redColor": "RED",
+        "magentaColor": "#AF48F1",
+        "blackColor": "0f3057",
+        "goldColor": "ffe5b9",
+        "myshlumColor": "cd5d7d"
+    },
+    "serverSettings": {
+        "serverID": "926879519934124082",
+        "serverTag": "¹³³⁹",
+        "unTag": "|"
+    }
+}
